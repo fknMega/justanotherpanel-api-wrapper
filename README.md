@@ -1,9 +1,9 @@
 
 # JustAnotherPanel API Wrapper
 
-A Node.js wrapper for the JustAnotherPanel API.
-Made by fknMega
+A Node.js wrapper for the [JustAnotherPanel API](https://justanotherpanel.com/api).
 
+Made by fknMega
 
 ## Installation
 

@@ -1,0 +1,24 @@
+{
+  "name": "justanotherpanel-api-wrapper",
+  "version": "1.0.0",
+  "description": "Node.js wrapper for the JustAnotherPanel API.",
+  "main": "jap.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fknMega/justanotherpanel-api-wrapper.git"
+  },
+  "keywords": [
+    "api",
+    "jap",
+    "justanotherpanel"
+  ],
+  "author": "fknMega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fknMega/justanotherpanel-api-wrapper/issues"
+  },
+  "homepage": "https://github.com/fknMega/justanotherpanel-api-wrapper#readme"
+}
